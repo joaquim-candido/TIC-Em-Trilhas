@@ -17,6 +17,7 @@ print("A área do círculo é:", area_do_circulo)
 # ------------------------------
 # EXEMPLO RUIM
 
+
 # Função para calcular a área de um círculo
 def calcular_area_circulo():
     area = 3.14 * 5 ** 2  # Usando números sem explicação

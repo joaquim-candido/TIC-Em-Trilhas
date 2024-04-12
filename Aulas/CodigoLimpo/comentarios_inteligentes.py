@@ -17,6 +17,7 @@ print("A média do aluno é:", media_aluno)
 # ------------------------------
 # EXEMPLO RUIM
 
+
 # Função para calcular média
 def calc_media(lista):
     # Aqui somamos todas as notas

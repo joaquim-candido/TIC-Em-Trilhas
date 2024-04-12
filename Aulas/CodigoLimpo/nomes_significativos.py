@@ -7,8 +7,8 @@ saldo_bancario = 1000.50
 
 
 # Função com nome significativo:
-def calcular_idade_em_dias(idade):
-    return idade * 365
+def calcular_idade_em_dias(idade_atual):
+    return idade_atual * 365
 
 
 # Chamada da função com variável significativa:
